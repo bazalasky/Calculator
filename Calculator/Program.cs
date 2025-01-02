@@ -80,7 +80,7 @@ class Program
 
             Console.WriteLine("\n"); // Friendly linespacing.
         }
-        return;
+        calculator.Finish();
     }
 }
 
